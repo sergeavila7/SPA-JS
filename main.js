@@ -66,7 +66,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \*********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst Header = () => {\n  const view = ` \n   <div class=\"header__main\">\n       <div class=\"header__logo\">\n           <h1>\n               <a href=\"/\">\n                   100tifi.co\n               </a>\n           </h1>\n       </div>\n       <div class=\"header__nav\">\n           <a href=\"#/about/\">\n               about\n           </a>\n       </div>\n   </div>\n   `;\n  return view;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Header);\n\n//# sourceURL=webpack://SPA-cientifico/./src/templates/Header.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst Header = () => {\n  const view = ` \n   <div class=\"header__main\">\n       <div class=\"header__logo\">\n           <h1>\n               <a href=\"/platizi-spa\">\n                   100tifi.co\n               </a>\n           </h1>\n       </div>\n       <div class=\"header__nav\">\n           <a href=\"#/about/\">\n               about\n           </a>\n       </div>\n   </div>\n   `;\n  return view;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Header);\n\n//# sourceURL=webpack://SPA-cientifico/./src/templates/Header.js?");
 
 /***/ }),
 
